@@ -1,0 +1,102 @@
+<?xml version="1.0"?>
+<doc>
+    <assembly>
+        <name>Main_Project</name>
+    </assembly>
+    <members>
+        <member name="T:Main_Project.Proj">
+            <summary>
+            The Proj class provides a CLS compliant, MWArray interface to the MATLAB functions
+            contained in the files:
+            <newpara></newpara>
+            G:\mohmed\Fourth year\Second Term\Image Processing\Magical Newspaper\Project
+            Functions\Main_Project.m
+            </summary>
+            <remarks>
+            @Version 0.0
+            </remarks>
+        </member>
+        <member name="M:Main_Project.Proj.#cctor">
+            <summary internal= "true">
+            The static constructor instantiates and initializes the MATLAB Runtime instance.
+            </summary>
+        </member>
+        <member name="M:Main_Project.Proj.#ctor">
+            <summary>
+            Constructs a new instance of the Proj class.
+            </summary>
+        </member>
+        <member name="M:Main_Project.Proj.Finalize">
+            <summary internal= "true">
+            Class destructor called by the CLR garbage collector.
+            </summary>
+        </member>
+        <member name="M:Main_Project.Proj.Dispose">
+            <summary>
+            Frees the native resources associated with this object
+            </summary>
+        </member>
+        <member name="M:Main_Project.Proj.Dispose(System.Boolean)">
+            <summary internal= "true">
+            Internal dispose function
+            </summary>
+        </member>
+        <member name="M:Main_Project.Proj.Main_Project">
+             <summary>
+             Provides a void output, 0-input MWArrayinterface to the Main_Project MATLAB
+             function.
+             </summary>
+             <remarks>
+             </remarks>
+            
+        </member>
+        <member name="M:Main_Project.Proj.Main_Project(MathWorks.MATLAB.NET.Arrays.MWArray)">
+             <summary>
+             Provides a void output, 1-input MWArrayinterface to the Main_Project MATLAB
+             function.
+             </summary>
+             <remarks>
+             </remarks>
+             <param name="Image_Path">Input argument #1</param>
+            
+        </member>
+        <member name="M:Main_Project.Proj.Main_Project(System.Int32)">
+             <summary>
+             Provides the standard 0-input MWArray interface to the Main_Project MATLAB
+             function.
+             </summary>
+             <remarks>
+             </remarks>
+             <param name="numArgsOut">The number of output arguments to return.</param>
+             <returns>An Array of length "numArgsOut" containing the output
+             arguments.</returns>
+            
+        </member>
+        <member name="M:Main_Project.Proj.Main_Project(System.Int32,MathWorks.MATLAB.NET.Arrays.MWArray)">
+             <summary>
+             Provides the standard 1-input MWArray interface to the Main_Project MATLAB
+             function.
+             </summary>
+             <remarks>
+             </remarks>
+             <param name="numArgsOut">The number of output arguments to return.</param>
+             <param name="Image_Path">Input argument #1</param>
+             <returns>An Array of length "numArgsOut" containing the output
+             arguments.</returns>
+            
+        </member>
+        <member name="M:Main_Project.Proj.WaitForFiguresToDie">
+             <summary>
+             This method will cause a MATLAB figure window to behave as a modal dialog box.
+             The method will not return until all the figure windows associated with this
+             component have been closed.
+             </summary>
+             <remarks>
+             An application should only call this method when required to keep the
+             MATLAB figure window from disappearing.  Other techniques, such as calling
+             Console.ReadLine() from the application should be considered where
+             possible.</remarks>
+            
+        </member>
+    </members>
+</doc>

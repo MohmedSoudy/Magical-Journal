@@ -1,0 +1,23 @@
+c:\users\dell\documents\visual studio 2013\Projects\MagicalJournal\MagicalJournal\bin\Debug\MagicalJournal.exe.config
+c:\users\dell\documents\visual studio 2013\Projects\MagicalJournal\MagicalJournal\bin\Debug\MagicalJournal.exe
+c:\users\dell\documents\visual studio 2013\Projects\MagicalJournal\MagicalJournal\bin\Debug\MagicalJournal.pdb
+c:\users\dell\documents\visual studio 2013\Projects\MagicalJournal\MagicalJournal\obj\Debug\MagicalJournal.csprojResolveAssemblyReference.cache
+c:\users\dell\documents\visual studio 2013\Projects\MagicalJournal\MagicalJournal\obj\Debug\MagicalJournal.Form1.resources
+c:\users\dell\documents\visual studio 2013\Projects\MagicalJournal\MagicalJournal\obj\Debug\MagicalJournal.Properties.Resources.resources
+c:\users\dell\documents\visual studio 2013\Projects\MagicalJournal\MagicalJournal\obj\Debug\MagicalJournal.csproj.GenerateResource.Cache
+c:\users\dell\documents\visual studio 2013\Projects\MagicalJournal\MagicalJournal\obj\Debug\MagicalJournal.exe
+c:\users\dell\documents\visual studio 2013\Projects\MagicalJournal\MagicalJournal\obj\Debug\MagicalJournal.pdb
+D:\MagicalJournal\MagicalJournal\bin\Debug\MagicalJournal.exe.config
+D:\MagicalJournal\MagicalJournal\obj\Debug\MagicalJournal.exe
+D:\MagicalJournal\MagicalJournal\obj\Debug\MagicalJournal.pdb
+G:\mohmed\Fourth year\Second Term\Image Processing\MagicalJournal\MagicalJournal\bin\Debug\MagicalJournal.exe.config
+G:\mohmed\Fourth year\Second Term\Image Processing\MagicalJournal\MagicalJournal\obj\Debug\MagicalJournal.exe
+G:\mohmed\Fourth year\Second Term\Image Processing\MagicalJournal\MagicalJournal\obj\Debug\MagicalJournal.pdb
+G:\mohmed\Fourth year\Second Term\Image Processing\MagicalJournal\MagicalJournal\bin\Debug\MagicalJournal.exe
+G:\mohmed\Fourth year\Second Term\Image Processing\MagicalJournal\MagicalJournal\bin\Debug\MagicalJournal.pdb
+G:\mohmed\Fourth year\Second Term\Image Processing\MagicalJournal\MagicalJournal\obj\Debug\MagicalJournal.csprojResolveAssemblyReference.cache
+G:\mohmed\Fourth year\Second Term\Image Processing\MagicalJournal\MagicalJournal\obj\Debug\MagicalJournal.Form1.resources
+G:\mohmed\Fourth year\Second Term\Image Processing\MagicalJournal\MagicalJournal\obj\Debug\MagicalJournal.Properties.Resources.resources
+G:\mohmed\Fourth year\Second Term\Image Processing\MagicalJournal\MagicalJournal\obj\Debug\MagicalJournal.csproj.GenerateResource.Cache
+G:\mohmed\Fourth year\Second Term\Image Processing\MagicalJournal\MagicalJournal\obj\Debug\Interop.WMPLib.dll
+G:\mohmed\Fourth year\Second Term\Image Processing\MagicalJournal\MagicalJournal\obj\Debug\MagicalJournal.csproj.ResolveComReference.cache
